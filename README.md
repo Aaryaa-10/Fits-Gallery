@@ -39,4 +39,6 @@ src/
  ├── App.jsx         
  └── style.css        
 
-
+# Live Preview 
+View on github
+( https://aaryaa-10.github.io/Fits-Gallery/)

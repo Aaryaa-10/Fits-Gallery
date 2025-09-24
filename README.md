@@ -40,5 +40,4 @@ src/
  └── style.css        
 
 # Live Preview 
-View on github
-( https://aaryaa-10.github.io/Fits-Gallery/)
+https://elaborate-halva-c04a37.netlify.app/
